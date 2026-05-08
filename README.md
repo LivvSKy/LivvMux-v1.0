@@ -12,7 +12,7 @@ Ringan, UI hijau-hitam, dan user-friendly.
 
 ## Install
 ```bash
-git clone https://github.com/username/LivvMux
+git clone https://github.com/LivvSKy/LivvMux
 cd LivvMux
 chmod +x install.sh
 ./install.sh
