@@ -12,8 +12,12 @@ Ringan, UI hijau-hitam, dan user-friendly.
 
 ## Install
 ```bash
-git clone https://github.com/LivvSKy/LivvMux
-cd LivvMux
+pkg update && pkg upgrade
+pkg install git python -y
+
+git clone https://github.com/LivvSKy/LivvMux-v1.0.git
+cd LivvMux-v1.0
+
 chmod +x install.sh
 ./install.sh
 ./run.sh
